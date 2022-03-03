@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iainrawson
 - 👀 I’m interested in full-stack development using technologies such as C#, .NET, VueJS and React
-- 🌱 I’m currently learning React, and F#
+- 🌱 I’m currently learning Scala and React
 - 📫 Reach me on LinkedIn
 
 <!---
