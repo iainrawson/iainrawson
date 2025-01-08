@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iainrawson
-- 👀 I’m interested in full-stack development using technologies such as C#, .NET Core, Scala, React and VueJS
-- 🌱 I’m currently learning Scala w/ Cats Effect
+- 👀 I’m interested in full-stack development using technologies such as C#, .NET Core, Scala, and TypeScript
 - 📫 Reach me on LinkedIn
 
 <!---
